@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mainoah Muna</h1>
-<h3 align="center">A Oregon State University Computer Science Student with a passion for Software Engineering and Machine Learning</h3>
+<h3 align="center">Application Engineer with a passion for Software Engineering and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainoahmuna&label=Profile%20views&color=0e75b6&style=flat" alt="mainoahmuna" /> </p>
 
